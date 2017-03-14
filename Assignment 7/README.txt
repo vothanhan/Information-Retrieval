@@ -1,0 +1,1 @@
+Text classification system with the use of k-nn and inverted index, comparing with Naives Bayes
