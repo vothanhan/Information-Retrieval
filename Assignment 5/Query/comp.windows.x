@@ -1,0 +1,1 @@
+xwall controlled by xdm XOpenDisplay point using Gadgets memory vs. network XmGraph widget generates Motif 1.2
